@@ -7,7 +7,9 @@
  - [🔏KeyBase](https://keybase.io/l0g)
 
 ### Languages and Tools
+[![debian][debian-shield]][debian-url]
 [![Ansible][ansible-shield]][ansible-url]
+[![Jenkins][jenkins-shield]][jenkins-url]
 [![Python][python-shield]][python-url]
 [![Bash][bash-shield]][bash-url]
 [![Kali Linux][kali-linux-shield]][kali-linux-url]
@@ -20,6 +22,10 @@
 [![Batch][batch-shield]][batch-url]
 
 <!-- Shields Links -->
+[debian-shield]:https://img.shields.io/badge/linux-debian?style=for-the-badge&logo=debian&logoColor=white
+[debian-url]: https://www.debian.org/
+[jenkins-shield]: https://img.shields.io/badge/jenkins-build?style=for-the-badge&logo=jenkins&logoColor=white
+[jenkins-url]: https://www.jenkins.io/
 [ansible-shield]: https://img.shields.io/badge/ansible-role?style=for-the-badge&logo=ansible&logoColor=white
 [ansible-url]: https://www.ansible.com/
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
