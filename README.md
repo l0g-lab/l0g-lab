@@ -15,7 +15,6 @@
 [![Bash][bash-shield]][bash-url]
 [![Kali Linux][kali-linux-shield]][kali-linux-url]
 [![Metasploit][metasploit-shield]][metasploit-url]
-[![HTML5][html5-shield]][html5-url]
 [![JavaScript][javascript-shield]][javascript-url]
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
