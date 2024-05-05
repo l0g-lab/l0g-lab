@@ -4,7 +4,6 @@
 
 ## Linux 🐧 | DevOps 🌊 | Security 💻
  📫 How to reach me:
- - [🐦Twitter](https://twitter.com/l0g-lab)
  - [🔏KeyBase](https://keybase.io/l0g)
 
 ### Languages and Tools
