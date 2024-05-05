@@ -2,7 +2,7 @@
   <img src="https://profile-counter.glitch.me/l0g-lab/count.svg">
 </p>
 
-## Linux 🐧 | DevOps | Security 💻
+## Linux 🐧 | DevOps 🌊 | Security 💻
  📫 How to reach me:
  - [🐦Twitter](https://twitter.com/l0g-lab)
  - [🔏KeyBase](https://keybase.io/l0g)
