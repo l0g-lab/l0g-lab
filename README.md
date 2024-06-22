@@ -19,7 +19,6 @@
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
 [![PowerShell][powershell-shield]][powershell-url]
-[![Batch][batch-shield]][batch-url]
 
 <!-- Shields Links -->
 [redhat-shield]:https://img.shields.io/badge/redhat-package?style=for-the-badge&logo=redhat
@@ -68,4 +67,4 @@
 ### Projects
 ...
 
-![l0g-lab GitHub Stats](https://github-readme-stats.vercel.app/api?username=l0g-lab&show_icons=true&theme=radical)
+![l0g-lab GitHub Stats](https://github-readme-stats.vercel.app/api?username=l0g-lab&show_icons=true&theme=chartreuse-dark)
