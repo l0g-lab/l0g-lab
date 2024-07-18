@@ -7,7 +7,6 @@
  - [🔏KeyBase](https://keybase.io/l0g)
 <img src="https://tryhackme-badges.s3.amazonaws.com/l0g.png" alt="TryHackMe">
 
-
 ### Languages and Tools
 [![redhat][redhat-shield]][debian-url]
 [![debian][debian-shield]][debian-url]
@@ -17,10 +16,10 @@
 [![Bash][bash-shield]][bash-url]
 [![Kali Linux][kali-linux-shield]][kali-linux-url]
 [![Metasploit][metasploit-shield]][metasploit-url]
-[![JavaScript][javascript-shield]][javascript-url]
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
-[![PowerShell][powershell-shield]][powershell-url]
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0g-lab&theme=github_dark&show_icons=true" />
 
 <!-- Shields Links -->
 [redhat-shield]:https://img.shields.io/badge/redhat-package?style=for-the-badge&logo=redhat
@@ -67,6 +66,3 @@
 [perl-url]: https://www.perl.org/
 
 ### Projects
-...
-
-![l0g-lab GitHub Stats](https://github-readme-stats.vercel.app/api?username=l0g-lab&show_icons=true&theme=chartreuse-dark)
