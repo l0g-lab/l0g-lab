@@ -5,6 +5,8 @@
 ## Linux 🐧 | DevOps 🌊 | Security 💻
  📫 How to reach me:
  - [🔏KeyBase](https://keybase.io/l0g)
+<img src="https://tryhackme-badges.s3.amazonaws.com/l0g.png" alt="TryHackMe">
+
 
 ### Languages and Tools
 [![redhat][redhat-shield]][debian-url]
