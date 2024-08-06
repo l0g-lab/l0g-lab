@@ -18,8 +18,7 @@
 </p>
 
 #### TryHackMe Stats
-<img src="https://tryhackme-badges.s3.amazonaws.com/l0g.png" alt="TryHackMe">
-![tryhackme stats](https://raw.githubusercontent.com/l0g-lab/l0g-lab/master/assets/badge.png)
+<img src="https://raw.githubusercontent.com/l0g-lab/l0g-lab/master/assets/badge.png" alt="TryHackMe">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0g-lab&theme=github_dark&show_icons=true" />
 
