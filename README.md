@@ -1,7 +1,7 @@
 ## Linux 🐧 | DevOps 🌊 | Security 💻
 
 📫 How to reach me:
- - [🔏KeyBase](https://keybase.io/l0g)
+ - 
 
 #### Linux
 <p>
