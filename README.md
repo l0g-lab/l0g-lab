@@ -17,9 +17,6 @@
   </a>
 </p>
 
-#### TryHackMe Stats
-<img src="https://raw.githubusercontent.com/l0g-lab/l0g-lab/master/assets/badge.png" alt="TryHackMe">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0g-lab&theme=github_dark&show_icons=true" />
 
 <p align="center">
