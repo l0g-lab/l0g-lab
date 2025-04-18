@@ -1,7 +1,7 @@
 ## Linux 🐧 | DevOps 🌊 | Security 💻
 
-📫 How to reach me:
- - 
+📫 How to reach me: 
+ - <a href="https://discordapp.com/users/373991487274221568">Discord</a>
 
 #### Linux
 <p>
