@@ -2,6 +2,7 @@
 
 📫 How to reach me: 
  - <a href="https://discordapp.com/users/373991487274221568">Discord</a>
+ - <a href="https://x.com/l0g_lab">X</a>
 
 #### Linux
 <p>
