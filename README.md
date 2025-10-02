@@ -21,7 +21,7 @@ Discord: l0g-lab#0899
 #### Tools / Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,github,vim,ansible,jenkins,mysql,nginx,elasticsearch,kafka,discord," />
+    <img src="https://skillicons.dev/icons?i=bash,python,github,vim,ansible,jenkins,mysql,nginx,elasticsearch,kafka,twitter,discord" />
   </a>
 </p>
 
